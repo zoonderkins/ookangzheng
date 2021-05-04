@@ -1,7 +1,6 @@
 <h3 align="center">Welcome 🍵</h3>
 <p align="center">
   <a href="https://edoo.dev">Website</a> /
-  <a href="https://twitter.com/ookangzheng">Twitter</a>
   <br><br>
   <img src="https://raw.githubusercontent.com/ookangzheng/ookangzheng/master/stars.gif" />
 </p>
@@ -18,3 +17,6 @@ Some ideas for later:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Edoo's GitHub stats](https://github-readme-okz.vercel.app/api?username=ookangzheng)](https://github.com/ookangzheng/)
